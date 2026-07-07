@@ -1,0 +1,201 @@
+PatientID,Name,Age,Gender,Disease,BMI,BP_Systolic,BP_Diastolic,AdmissionDate,Feedback
+1,Patient_1,24,Male,Obesity,32.4,124,69,2024-10-31,"Wonderful experience overall, highly recommend this clinic."
+2,Patient_2,75,Female,Asthma,29.4,103,87,2024-08-11,Disappointed with the delay in reports and follow-up.
+3,Patient_3,72,Female,Thyroid Disorder,22.8,100,78,2024-10-17,"Average service, nothing special but okay treatment."
+4,Patient_4,36,Female,Cardiac Disorder,23.3,148,72,2024-04-11,Good doctors but the billing process was confusing.
+5,Patient_5,38,Male,Obesity,16.3,123,103,2024-09-23,"Average service, nothing special but okay treatment."
+6,Patient_6,84,Male,None,32.2,122,73,2024-12-20,"Average service, nothing special but okay treatment."
+7,Patient_7,89,Male,Asthma,29.4,119,92,2024-04-19,"Great hospital, quick diagnosis and effective medication."
+8,Patient_8,25,Female,None,24.3,132,96,2024-11-25,"The doctor was very helpful and caring, I feel much better now."
+9,Patient_9,18,Female,None,26.0,158,64,2024-09-21,The staff was okay but the facility needs improvement.
+10,Patient_10,82,Female,Hypertension,14.1,128,81,2024-01-03,"The doctor was very helpful and caring, I feel much better now."
+11,Patient_11,66,Male,Diabetes,22.6,111,75,2024-03-25,I am not satisfied with the treatment plan given.
+12,Patient_12,54,Other,Diabetes,31.7,118,74,2024-10-08,Good doctors but the billing process was confusing.
+13,Patient_13,35,Female,Diabetes,29.9,136,86,2024-11-23,"Wonderful experience overall, highly recommend this clinic."
+14,Patient_14,80,Male,Diabetes,26.7,111,74,2024-10-30,"Excellent care, the nurses were kind and attentive."
+15,Patient_15,61,Male,Arthritis,24.9,133,75,2024-04-26,I am not satisfied with the treatment plan given.
+16,Patient_16,41,Male,Diabetes,29.0,90,78,2024-08-08,"Excellent care, the nurses were kind and attentive."
+17,Patient_17,33,Male,Asthma,23.6,117,76,2024-06-02,"Excellent care, the nurses were kind and attentive."
+18,Patient_18,68,Female,None,16.7,129,68,2024-06-01,"Wonderful experience overall, highly recommend this clinic."
+19,Patient_19,33,Male,Diabetes,25.0,139,88,2024-01-12,"Terrible experience, long waiting time and rude staff."
+20,Patient_20,14,Male,None,27.0,108,90,2024-05-12,"The doctor was very helpful and caring, I feel much better now."
+21,Patient_21,21,Female,Hypertension,30.6,97,83,2024-10-30,"Average service, nothing special but okay treatment."
+22,Patient_22,48,Male,Diabetes,17.8,116,76,2024-10-19,Disappointed with the delay in reports and follow-up.
+23,Patient_23,20,Male,Arthritis,24.4,103,73,2024-10-26,"Excellent care, the nurses were kind and attentive."
+24,Patient_24,8,Male,Thyroid Disorder,24.6,118,73,2024-08-15,Good doctors but the billing process was confusing.
+25,Patient_25,7,Male,None,19.5,120,104,2024-09-27,I am not satisfied with the treatment plan given.
+26,Patient_26,67,Female,Arthritis,27.4,100,89,2024-02-12,"Terrible experience, long waiting time and rude staff."
+27,Patient_27,17,Male,None,28.7,132,72,2024-12-08,"Excellent care, the nurses were kind and attentive."
+28,Patient_28,33,Female,Hypertension,23.5,118,82,2024-11-21,"Terrible experience, long waiting time and rude staff."
+29,Patient_29,48,Female,Hypertension,35.3,136,76,2024-10-28,"Terrible experience, long waiting time and rude staff."
+30,Patient_30,76,Male,Arthritis,23.4,92,86,2024-12-29,"Excellent care, the nurses were kind and attentive."
+31,Patient_31,59,Female,None,22.8,105,85,2024-01-21,"Great hospital, quick diagnosis and effective medication."
+32,Patient_32,86,Male,None,22.6,128,91,2024-04-16,The staff was okay but the facility needs improvement.
+33,Patient_33,22,Male,Cardiac Disorder,20.9,108,71,2024-12-01,Good doctors but the billing process was confusing.
+34,Patient_34,30,Female,Asthma,22.2,118,81,2024-10-29,"Average service, nothing special but okay treatment."
+35,Patient_35,38,Other,Arthritis,17.8,120,63,2024-04-26,"Average service, nothing special but okay treatment."
+36,Patient_36,51,Female,Asthma,24.0,122,67,2024-05-03,Good doctors but the billing process was confusing.
+37,Patient_37,54,Male,None,25.3,110,89,2024-10-07,"Great hospital, quick diagnosis and effective medication."
+38,Patient_38,8,Male,None,14.0,122,70,2024-10-18,"Average service, nothing special but okay treatment."
+39,Patient_39,27,Female,Cardiac Disorder,24.5,108,72,2024-07-21,"Terrible experience, long waiting time and rude staff."
+40,Patient_40,27,Male,Arthritis,25.2,130,80,2024-02-20,"Wonderful experience overall, highly recommend this clinic."
+41,Patient_41,21,Male,Arthritis,27.6,118,87,2024-09-27,I am not satisfied with the treatment plan given.
+42,Patient_42,30,Female,Diabetes,31.0,122,69,2024-11-19,"The doctor was very helpful and caring, I feel much better now."
+43,Patient_43,28,Male,None,29.3,159,55,2024-10-03,"Average service, nothing special but okay treatment."
+44,Patient_44,64,Female,Obesity,21.9,103,71,2024-05-20,Good doctors but the billing process was confusing.
+45,Patient_45,69,Male,None,21.3,141,92,2024-10-01,"Wonderful experience overall, highly recommend this clinic."
+46,Patient_46,61,Female,Asthma,27.9,90,83,2024-10-16,"Excellent care, the nurses were kind and attentive."
+47,Patient_47,48,Male,None,22.3,90,93,2024-11-29,The staff was okay but the facility needs improvement.
+48,Patient_48,19,Female,Asthma,18.9,101,69,2024-02-21,Good doctors but the billing process was confusing.
+49,Patient_49,4,Female,Diabetes,36.9,102,64,2024-01-27,"Terrible experience, long waiting time and rude staff."
+50,Patient_50,35,Male,None,23.4,123,85,2024-06-05,The staff was okay but the facility needs improvement.
+51,Patient_51,64,Other,Diabetes,21.9,124,82,2024-08-26,I am not satisfied with the treatment plan given.
+52,Patient_52,49,Female,Asthma,14.0,116,83,2024-06-04,I am not satisfied with the treatment plan given.
+53,Patient_53,17,Female,None,29.3,118,89,2024-10-17,"Great hospital, quick diagnosis and effective medication."
+54,Patient_54,44,Female,None,20.1,128,84,2024-05-15,Disappointed with the delay in reports and follow-up.
+55,Patient_55,30,Female,Obesity,25.1,132,84,2024-05-23,"Great hospital, quick diagnosis and effective medication."
+56,Patient_56,46,Female,Thyroid Disorder,29.8,100,87,2024-04-15,"Wonderful experience overall, highly recommend this clinic."
+57,Patient_57,6,Male,Cardiac Disorder,20.1,115,85,2024-06-06,The staff was okay but the facility needs improvement.
+58,Patient_58,37,Male,Hypertension,25.4,119,89,2024-05-25,Disappointed with the delay in reports and follow-up.
+59,Patient_59,24,Male,Asthma,32.6,127,90,2024-01-02,"Excellent care, the nurses were kind and attentive."
+60,Patient_60,46,Male,Thyroid Disorder,14.0,108,95,2024-03-17,"Terrible experience, long waiting time and rude staff."
+61,Patient_61,53,Male,Arthritis,20.9,119,74,2024-05-11,The staff was okay but the facility needs improvement.
+62,Patient_62,60,Male,None,20.5,120,85,2024-03-30,"Great hospital, quick diagnosis and effective medication."
+63,Patient_63,63,Female,None,24.1,109,76,2024-12-10,"The doctor was very helpful and caring, I feel much better now."
+64,Patient_64,85,Male,Diabetes,24.8,109,72,2024-12-15,Disappointed with the delay in reports and follow-up.
+65,Patient_65,32,Male,Cardiac Disorder,19.7,121,73,2024-09-19,Disappointed with the delay in reports and follow-up.
+66,Patient_66,87,Female,Diabetes,21.7,118,85,2024-12-16,"Terrible experience, long waiting time and rude staff."
+67,Patient_67,33,Male,Obesity,21.1,128,84,2024-04-17,"Average service, nothing special but okay treatment."
+68,Patient_68,67,Female,Cardiac Disorder,23.2,104,84,2024-03-14,I am not satisfied with the treatment plan given.
+69,Patient_69,18,Male,None,26.1,115,78,2024-02-08,I am not satisfied with the treatment plan given.
+70,Patient_70,25,Other,Asthma,29.6,117,80,2024-06-07,"The doctor was very helpful and caring, I feel much better now."
+71,Patient_71,54,Female,Diabetes,30.3,132,88,2024-03-11,"Wonderful experience overall, highly recommend this clinic."
+72,Patient_72,58,Male,Hypertension,28.3,106,65,2024-11-07,"Wonderful experience overall, highly recommend this clinic."
+73,Patient_73,67,Male,Arthritis,20.6,124,80,2024-08-28,"Excellent care, the nurses were kind and attentive."
+74,Patient_74,46,Female,Thyroid Disorder,25.0,124,81,2024-10-24,The staff was okay but the facility needs improvement.
+75,Patient_75,24,Female,Diabetes,36.9,145,88,2024-02-05,Good doctors but the billing process was confusing.
+76,Patient_76,32,Female,Diabetes,30.1,105,66,2024-03-24,"Average service, nothing special but okay treatment."
+77,Patient_77,47,Female,Arthritis,22.8,110,95,2024-09-19,"Great hospital, quick diagnosis and effective medication."
+78,Patient_78,86,Male,Diabetes,32.9,106,82,2024-11-05,Good doctors but the billing process was confusing.
+79,Patient_79,23,Male,None,23.1,95,83,2024-06-20,Good doctors but the billing process was confusing.
+80,Patient_80,66,Male,Arthritis,21.7,146,76,2024-06-21,Disappointed with the delay in reports and follow-up.
+81,Patient_81,27,Female,Diabetes,32.0,101,85,2024-12-27,"The doctor was very helpful and caring, I feel much better now."
+82,Patient_82,2,Female,Diabetes,18.5,108,80,2024-02-16,I am not satisfied with the treatment plan given.
+83,Patient_83,17,Male,None,15.4,140,92,2024-05-20,"Excellent care, the nurses were kind and attentive."
+84,Patient_84,33,Male,Asthma,29.7,94,66,2024-04-27,"Wonderful experience overall, highly recommend this clinic."
+85,Patient_85,9,Male,Asthma,25.1,131,82,2024-10-03,"The doctor was very helpful and caring, I feel much better now."
+86,Patient_86,43,Male,None,25.6,99,84,2024-08-01,Disappointed with the delay in reports and follow-up.
+87,Patient_87,48,Female,None,23.2,139,78,2024-08-07,"Great hospital, quick diagnosis and effective medication."
+88,Patient_88,39,Female,None,23.8,90,76,2024-01-26,"Excellent care, the nurses were kind and attentive."
+89,Patient_89,42,Female,Arthritis,22.7,94,76,2024-01-09,Disappointed with the delay in reports and follow-up.
+90,Patient_90,26,Male,Asthma,21.9,112,82,2024-09-27,I am not satisfied with the treatment plan given.
+91,Patient_91,50,Male,Diabetes,23.1,135,62,2024-01-10,I am not satisfied with the treatment plan given.
+92,Patient_92,25,Female,Arthritis,22.9,120,90,2024-04-30,I am not satisfied with the treatment plan given.
+93,Patient_93,24,Female,Obesity,20.9,115,75,2024-05-04,"The doctor was very helpful and caring, I feel much better now."
+94,Patient_94,13,Female,Cardiac Disorder,22.3,140,81,2024-06-18,"The doctor was very helpful and caring, I feel much better now."
+95,Patient_95,60,Female,None,14.0,152,84,2024-03-12,"Wonderful experience overall, highly recommend this clinic."
+96,Patient_96,7,Female,Diabetes,28.4,130,75,2024-05-31,"Wonderful experience overall, highly recommend this clinic."
+97,Patient_97,57,Female,Cardiac Disorder,27.0,111,79,2024-07-26,"Great hospital, quick diagnosis and effective medication."
+98,Patient_98,36,Male,Diabetes,24.6,114,60,2024-02-18,"Excellent care, the nurses were kind and attentive."
+99,Patient_99,45,Male,Cardiac Disorder,26.2,101,87,2024-06-02,"Terrible experience, long waiting time and rude staff."
+100,Patient_100,20,Male,Diabetes,26.4,122,91,2024-12-12,"Terrible experience, long waiting time and rude staff."
+101,Patient_101,65,Male,Diabetes,21.4,96,63,2024-10-19,Disappointed with the delay in reports and follow-up.
+102,Patient_102,8,Female,Diabetes,22.3,128,76,2024-03-08,I am not satisfied with the treatment plan given.
+103,Patient_103,16,Male,Thyroid Disorder,27.6,150,68,2024-02-19,"Excellent care, the nurses were kind and attentive."
+104,Patient_104,14,Female,Arthritis,26.0,131,78,2024-05-31,Good doctors but the billing process was confusing.
+105,Patient_105,76,Female,Obesity,35.2,113,86,2024-01-19,"The doctor was very helpful and caring, I feel much better now."
+106,Patient_106,87,Male,None,33.1,128,90,2024-04-09,The staff was okay but the facility needs improvement.
+107,Patient_107,15,Male,Asthma,29.7,144,91,2024-02-29,"Average service, nothing special but okay treatment."
+108,Patient_108,66,Female,Hypertension,21.2,144,93,2024-06-15,"Great hospital, quick diagnosis and effective medication."
+109,Patient_109,32,Male,None,22.2,105,78,2024-07-20,I am not satisfied with the treatment plan given.
+110,Patient_110,87,Male,Hypertension,20.0,128,69,2024-12-10,I am not satisfied with the treatment plan given.
+111,Patient_111,63,Male,None,26.4,118,79,2024-05-25,I am not satisfied with the treatment plan given.
+112,Patient_112,86,Male,Diabetes,14.0,132,86,2024-06-12,"The doctor was very helpful and caring, I feel much better now."
+113,Patient_113,51,Female,None,22.7,126,68,2024-08-29,"The doctor was very helpful and caring, I feel much better now."
+114,Patient_114,25,Female,Diabetes,23.5,90,97,2024-03-09,"Average service, nothing special but okay treatment."
+115,Patient_115,58,Female,None,17.4,115,89,2024-06-23,Good doctors but the billing process was confusing.
+116,Patient_116,63,Female,Obesity,29.0,123,78,2024-02-18,"Excellent care, the nurses were kind and attentive."
+117,Patient_117,62,Female,None,19.3,98,73,2024-04-17,I am not satisfied with the treatment plan given.
+118,Patient_118,22,Male,Diabetes,26.3,129,73,2024-08-13,"Terrible experience, long waiting time and rude staff."
+119,Patient_119,58,Female,Obesity,38.9,97,81,2024-06-09,"Wonderful experience overall, highly recommend this clinic."
+120,Patient_120,58,Female,None,16.9,108,78,2024-04-28,"Terrible experience, long waiting time and rude staff."
+121,Patient_121,86,Female,Obesity,24.3,140,90,2024-05-28,Disappointed with the delay in reports and follow-up.
+122,Patient_122,49,Female,Thyroid Disorder,23.0,107,77,2024-05-29,"Terrible experience, long waiting time and rude staff."
+123,Patient_123,52,Male,Arthritis,22.0,129,85,2024-10-19,Disappointed with the delay in reports and follow-up.
+124,Patient_124,42,Male,Cardiac Disorder,28.8,94,80,2024-05-22,The staff was okay but the facility needs improvement.
+125,Patient_125,70,Male,Thyroid Disorder,30.5,151,83,2024-06-08,"Wonderful experience overall, highly recommend this clinic."
+126,Patient_126,15,Male,Obesity,28.9,115,78,2024-01-11,"Terrible experience, long waiting time and rude staff."
+127,Patient_127,54,Female,None,21.4,121,87,2024-05-17,The staff was okay but the facility needs improvement.
+128,Patient_128,60,Female,Diabetes,37.2,123,87,2024-03-18,"Great hospital, quick diagnosis and effective medication."
+129,Patient_129,8,Male,Hypertension,16.1,129,85,2024-03-17,"Excellent care, the nurses were kind and attentive."
+130,Patient_130,53,Female,None,19.8,97,86,2024-09-10,The staff was okay but the facility needs improvement.
+131,Patient_131,60,Male,None,25.8,120,71,2024-09-14,"Excellent care, the nurses were kind and attentive."
+132,Patient_132,5,Male,Cardiac Disorder,25.4,110,83,2024-11-15,"Terrible experience, long waiting time and rude staff."
+133,Patient_133,68,Male,Thyroid Disorder,27.4,95,92,2024-10-17,Good doctors but the billing process was confusing.
+134,Patient_134,6,Male,Hypertension,32.9,135,85,2024-09-19,The staff was okay but the facility needs improvement.
+135,Patient_135,47,Female,Hypertension,24.4,115,70,2024-03-25,"Wonderful experience overall, highly recommend this clinic."
+136,Patient_136,55,Male,Cardiac Disorder,25.6,124,80,2024-05-25,"Terrible experience, long waiting time and rude staff."
+137,Patient_137,40,Female,Asthma,22.0,123,84,2024-11-18,I am not satisfied with the treatment plan given.
+138,Patient_138,52,Female,Obesity,27.9,115,72,2024-02-11,"The doctor was very helpful and caring, I feel much better now."
+139,Patient_139,16,Male,Diabetes,23.4,150,66,2024-05-04,The staff was okay but the facility needs improvement.
+140,Patient_140,13,Other,None,23.4,119,77,2024-06-15,"Wonderful experience overall, highly recommend this clinic."
+141,Patient_141,30,Other,None,27.7,97,73,2024-08-28,"Great hospital, quick diagnosis and effective medication."
+142,Patient_142,19,Male,Arthritis,30.2,114,80,2024-10-06,I am not satisfied with the treatment plan given.
+143,Patient_143,17,Female,Obesity,14.0,127,64,2024-07-06,"Great hospital, quick diagnosis and effective medication."
+144,Patient_144,63,Male,Asthma,26.8,128,86,2024-10-28,"Terrible experience, long waiting time and rude staff."
+145,Patient_145,19,Male,None,23.6,104,74,2024-01-19,"The doctor was very helpful and caring, I feel much better now."
+146,Patient_146,58,Male,Arthritis,29.7,134,90,2024-03-08,The staff was okay but the facility needs improvement.
+147,Patient_147,55,Female,Hypertension,23.7,94,77,2024-08-05,The staff was okay but the facility needs improvement.
+148,Patient_148,62,Female,None,31.5,137,80,2024-04-11,Good doctors but the billing process was confusing.
+149,Patient_149,23,Male,None,21.6,100,78,2024-02-11,Good doctors but the billing process was confusing.
+150,Patient_150,9,Male,None,14.0,117,73,2024-10-14,"Terrible experience, long waiting time and rude staff."
+151,Patient_151,12,Female,Arthritis,30.3,136,105,2024-06-15,"Terrible experience, long waiting time and rude staff."
+152,Patient_152,1,Male,Thyroid Disorder,20.8,122,75,2024-04-18,"The doctor was very helpful and caring, I feel much better now."
+153,Patient_153,58,Male,Cardiac Disorder,17.1,132,90,2024-02-05,Good doctors but the billing process was confusing.
+154,Patient_154,1,Female,None,25.1,129,69,2024-08-19,"Wonderful experience overall, highly recommend this clinic."
+155,Patient_155,34,Other,None,23.8,139,84,2024-08-16,"Wonderful experience overall, highly recommend this clinic."
+156,Patient_156,48,Male,Diabetes,29.1,136,85,2024-12-18,"The doctor was very helpful and caring, I feel much better now."
+157,Patient_157,89,Female,Diabetes,29.5,113,80,2024-06-12,"Wonderful experience overall, highly recommend this clinic."
+158,Patient_158,1,Female,Asthma,25.5,129,74,2024-03-13,Disappointed with the delay in reports and follow-up.
+159,Patient_159,16,Male,None,20.6,97,77,2024-05-15,"Excellent care, the nurses were kind and attentive."
+160,Patient_160,61,Female,None,26.4,119,76,2024-12-18,"The doctor was very helpful and caring, I feel much better now."
+161,Patient_161,64,Male,Hypertension,25.8,132,104,2024-03-10,"The doctor was very helpful and caring, I feel much better now."
+162,Patient_162,63,Female,Obesity,27.8,122,80,2024-07-14,"Average service, nothing special but okay treatment."
+163,Patient_163,69,Female,Asthma,20.6,127,85,2024-09-25,I am not satisfied with the treatment plan given.
+164,Patient_164,22,Female,None,23.0,117,98,2024-02-18,I am not satisfied with the treatment plan given.
+165,Patient_165,67,Male,None,27.5,137,71,2024-11-11,Disappointed with the delay in reports and follow-up.
+166,Patient_166,76,Female,None,31.2,119,80,2024-05-09,Good doctors but the billing process was confusing.
+167,Patient_167,26,Male,Cardiac Disorder,29.8,113,77,2024-01-05,"Terrible experience, long waiting time and rude staff."
+168,Patient_168,16,Male,Cardiac Disorder,25.4,133,79,2024-01-27,"Terrible experience, long waiting time and rude staff."
+169,Patient_169,51,Male,Hypertension,22.6,99,78,2024-06-08,"Great hospital, quick diagnosis and effective medication."
+170,Patient_170,86,Female,Diabetes,27.0,128,73,2024-05-28,Disappointed with the delay in reports and follow-up.
+171,Patient_171,57,Female,None,19.5,104,82,2024-09-20,"The doctor was very helpful and caring, I feel much better now."
+172,Patient_172,29,Male,None,20.9,139,69,2024-08-17,Disappointed with the delay in reports and follow-up.
+173,Patient_173,78,Female,None,32.5,116,90,2024-07-18,Disappointed with the delay in reports and follow-up.
+174,Patient_174,69,Male,None,27.0,122,86,2024-02-19,Disappointed with the delay in reports and follow-up.
+175,Patient_175,47,Female,Obesity,23.3,126,75,2024-03-07,I am not satisfied with the treatment plan given.
+176,Patient_176,62,Male,Arthritis,29.1,91,76,2024-10-26,Disappointed with the delay in reports and follow-up.
+177,Patient_177,69,Female,None,31.4,110,83,2024-02-27,"Excellent care, the nurses were kind and attentive."
+178,Patient_178,76,Male,None,22.8,136,72,2024-09-15,"Terrible experience, long waiting time and rude staff."
+179,Patient_179,16,Female,Hypertension,22.9,133,98,2024-12-07,"Great hospital, quick diagnosis and effective medication."
+180,Patient_180,48,Male,Cardiac Disorder,22.2,124,84,2024-11-21,"Excellent care, the nurses were kind and attentive."
+181,Patient_181,85,Male,Diabetes,29.8,100,84,2024-05-09,"Great hospital, quick diagnosis and effective medication."
+182,Patient_182,39,Male,None,29.9,129,87,2024-08-02,"Average service, nothing special but okay treatment."
+183,Patient_183,33,Female,Thyroid Disorder,31.9,131,74,2024-06-20,"Great hospital, quick diagnosis and effective medication."
+184,Patient_184,23,Female,Hypertension,30.0,121,91,2024-09-14,"Terrible experience, long waiting time and rude staff."
+185,Patient_185,10,Male,Thyroid Disorder,16.8,138,81,2024-04-11,"Terrible experience, long waiting time and rude staff."
+186,Patient_186,69,Female,Thyroid Disorder,26.4,110,90,2024-07-27,Disappointed with the delay in reports and follow-up.
+187,Patient_187,34,Female,Asthma,19.7,112,78,2024-10-17,The staff was okay but the facility needs improvement.
+188,Patient_188,52,Female,Diabetes,22.4,90,93,2024-12-19,"Average service, nothing special but okay treatment."
+189,Patient_189,10,Female,Thyroid Disorder,25.9,134,84,2024-10-12,"The doctor was very helpful and caring, I feel much better now."
+190,Patient_190,19,Male,Obesity,29.2,125,102,2024-04-25,"Wonderful experience overall, highly recommend this clinic."
+191,Patient_191,58,Male,Arthritis,20.5,95,76,2024-09-20,"Great hospital, quick diagnosis and effective medication."
+192,Patient_192,1,Female,Obesity,14.0,94,82,2024-05-29,The staff was okay but the facility needs improvement.
+193,Patient_193,69,Female,None,25.9,107,70,2024-10-26,Disappointed with the delay in reports and follow-up.
+194,Patient_194,4,Female,Obesity,38.2,132,75,2024-02-05,I am not satisfied with the treatment plan given.
+195,Patient_195,16,Male,Obesity,24.0,115,86,2024-11-28,"The doctor was very helpful and caring, I feel much better now."
+196,Patient_196,24,Male,None,25.2,108,91,2024-10-13,Good doctors but the billing process was confusing.
+197,Patient_197,80,Female,Cardiac Disorder,33.9,105,110,2024-10-29,The staff was okay but the facility needs improvement.
+198,Patient_198,2,Female,Diabetes,28.0,104,79,2024-11-06,I am not satisfied with the treatment plan given.
+199,Patient_199,32,Female,Diabetes,26.1,91,71,2024-07-26,"Average service, nothing special but okay treatment."
+200,Patient_200,84,Female,Arthritis,27.2,102,88,2024-04-15,Disappointed with the delay in reports and follow-up.
