@@ -1,4 +1,5 @@
 # 🏥 Health Analytics Dashboard
+### 🔗 [Launch the Live App](https://health-analytics-dashboard-d2rj64a9axqekzjdvbwyak.streamlit.app/)
 
 An interactive **Health Analytics Dashboard** built with **Streamlit**, **Plotly**, and **TextBlob**.
 Upload a patient dataset (or use the bundled sample data) and instantly explore KPIs, age
